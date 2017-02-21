@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -11,6 +12,8 @@ namespace Task1
     {
         static void Main(string[] args)
         {
+
+            Stopwatch clock = Stopwatch.StartNew();
             List<double> listOfOccuringIntegers = ParseInequalities.Parse();
             List<double> numbersInInterval = NumberBetweenIntervals.FindNumberInInvervals(listOfOccuringIntegers);
 
@@ -36,6 +39,8 @@ namespace Task1
                 Console.WriteLine(item);
             }
 
+            clock.Stop();
+            Console.WriteLine("Solution took {0} ms", clock.ElapsedMilliseconds);
 
             Console.ReadLine();
         }

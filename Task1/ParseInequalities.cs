@@ -13,7 +13,7 @@ namespace Task1
         public static List<double> Parse()
         {
             SortedSet<double> occuringIntegers = new SortedSet<double>();
-            using (StreamReader reader = new StreamReader(@"D:\Projects\Exam\Exam\Task1\bin\Sample.txt"))
+            using (StreamReader reader = new StreamReader(@"D:\Projects\Exam-2nd-Edition\Task1\bin\Sample5000+.txt"))
             {
                 string line = "";
                 

@@ -12,7 +12,7 @@ namespace Task1
         public static List<string> FindMaxSubset(double x)
         {
             List<string> subset = new List<string>();
-            using (StreamReader reader = new StreamReader(@"D:\Projects\Exam\Exam\Task1\bin\Sample.txt"))
+            using (StreamReader reader = new StreamReader(@"D:\Projects\Exam\Exam\Task1\bin\Sample5000+.txt"))
             {
                 string line = "";
                 

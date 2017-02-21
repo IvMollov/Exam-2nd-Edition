@@ -13,7 +13,7 @@ namespace Task2
 
         public static void Parse()
         {
-            using (StreamReader reader = new StreamReader(@"D:\Projects\Exam\Exam\Task2\bin\Sample.txt"))
+            using (StreamReader reader = new StreamReader(@"D:\Projects\Exam-2nd-Edition\Task2\bin\MobileStoreSample5000+.txt"))
             {
                 string line = "";
                 string braket = "(";

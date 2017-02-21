@@ -10,3 +10,9 @@ D:\Projects\Exam\Exam\Task1\obj\Debug\Task1.pdb
 D:\Projects\Exam\Exam\Task1\bin\Debug\Task1.exe
 D:\Projects\Exam\Exam\Task1\bin\Debug\Task1.pdb
 D:\Projects\Exam\Exam\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+D:\Projects\Exam-2nd-Edition\Task1\bin\Debug\Task1.exe.config
+D:\Projects\Exam-2nd-Edition\Task1\obj\Debug\Task1.exe
+D:\Projects\Exam-2nd-Edition\Task1\obj\Debug\Task1.pdb
+D:\Projects\Exam-2nd-Edition\Task1\bin\Debug\Task1.exe
+D:\Projects\Exam-2nd-Edition\Task1\bin\Debug\Task1.pdb
+D:\Projects\Exam-2nd-Edition\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
